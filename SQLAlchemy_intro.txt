@@ -1,0 +1,6 @@
+# SQLALchemy
+-> ORM(Object Relation Mapping) library.
+-> map the relationships in the database into objects.
+-> fields becomes object properties
+-> tables can be defined as a separate classes
+-> each row of data is a new object
